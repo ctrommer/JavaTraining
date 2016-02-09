@@ -1,5 +1,5 @@
 package mockito;
 
-interface Uebersetzer {
+public interface Uebersetzer {
 	String uebersetze( String zuUebersetzen );
 }
